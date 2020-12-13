@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 class HomeTopInfo extends StatelessWidget {
-  final estiloTexto = TextStyle(fontSize: 32, fontWeight: FontWeight.bold,);
+  final estiloTexto = TextStyle(fontSize: 32, fontWeight: FontWeight.bold, color: Colors.brown[700]);
   @override
   Widget build(BuildContext context) {
     return Row(
