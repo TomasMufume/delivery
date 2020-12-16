@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'widgets/home_top_info.dart';
+
 class HomeScreen extends StatefulWidget {
   @override
   _HomeScreenState createState() => _HomeScreenState();
